@@ -1,0 +1,201 @@
+naziv,naselje,cijena_kafe_km,ocjena,terasa,vrsta
+Cafe Wintera,Stupine,3.5,4.7,Da,Lounge Bar
+Caffe Cafe,Centar,3.8,4.8,Da,Gradski kafe
+Caffe Allegro,Stupine,3.2,4.6,Da,Kafeterija
+Gato,Centar,3.0,4.5,Ne,Kafe bar
+Verdi,Centar,3.5,4.9,Da,Kafeterija
+La Linea,Slatina,2.8,4.4,Da,Kvartovski kafe
+Cafe de Paris,Stari Grad,2.5,4.3,Ne,Kafe bar
+Sloboda Caffe Bar,Centar,3.5,4.8,Da,Sportski kafe
+Lobi,Bulevar,3.0,4.6,Da,Moderni kafe
+Osmica,Ilinčica,4.0,4.9,Da,Vidikovac/Restoran
+Index,Centar,2.8,4.1,Ne,Studentski kafe
+Kapija City Pub,Stari Grad,3.2,4.5,Da,Pub
+Golden Card,Sjenjak,2.7,4.3,Ne,Kvartovski kafe
+Biberon,Brčanska Malta,3.0,4.4,Da,Slastičarna/Kafe
+Kafeterija Tuzla,Centar,3.8,4.8,Da,Kafeterija
+Cafeterteria Intermezzo,Centar,3.6,4.7,Da,Kafeterija
+Wint Lounge Bar,Stupine,3.5,4.7,Da,Lounge Bar
+Dolce Vita,Stupine,3.3,4.5,Da,Kafe bar
+Coffee Zone,Centar,3.2,4.4,Ne,Kafeterija
+Fabrika Coffee,Centar,3.7,4.8,Da,Kafeterija
+Caffe Pauza,Centar,3.0,4.6,Da,Kafe bar
+Lounge Caffe Pauza,Slatina,2.9,4.3,Da,Kafe bar
+Segafredo,Centar,4.0,4.7,Da,Kafeterija
+Shamrock,Centar,3.5,4.6,Da,Pub
+Toranj,Stupine,3.4,4.5,Da,Kafe bar
+Caffe Bar Studio,Centar,3.1,4.3,Ne,Kafe bar
+Caffe Bar Renata,Stupine,3.2,4.5,Da,Kafe bar
+Lijepa Priča,Centar,3.5,4.8,Da,Kafeterija
+Café Kvart Tuzla,Slatina,2.8,4.2,Ne,Kvartovski kafe
+Caffe Bar Bluesberry,Centar,3.3,4.5,Da,Kafe bar
+Cafe New York,Centar,3.6,4.6,Da,Gradski kafe
+Caffe Korzo,Centar,3.5,4.7,Da,Gradski kafe
+Bar Panonika,Centar,3.2,4.4,Da,Kafe bar
+Lounge Skver,Stari Grad,3.0,4.3,Da,Lounge Bar
+Coffee Break 32,Sjenjak,2.8,4.1,Ne,Kafeterija
+City Spot,Stupine,3.4,4.6,Da,Kafe bar
+Pub Mramor,Mramor,2.3,4.0,Da,Pub
+Kafana Evropa,Stari Grad,2.2,4.2,Ne,Tradicionalna kafana
+Central Bar,Centar,3.6,4.7,Da,Gradski kafe
+Corner Slatina,Slatina,2.7,4.3,Ne,Kvartovski kafe
+Boutique Kafe,Bulevar,3.8,4.8,Da,Kafeterija
+Retro Stupine,Stupine,3.0,4.4,Da,Kafe bar
+Avenija 43,Stupine,3.3,4.5,Da,Kafe bar
+Piazza Centar,Centar,3.9,4.9,Da,Kafeterija
+Siti Kafa,Brčanska Malta,2.8,4.2,Ne,Kvartovski kafe
+Caffe Express 46,Solina,2.5,4.1,Ne,Kafe bar
+Bar Club 47,Ilinčica,3.1,4.4,Da,Lounge Bar
+Lounge Break 48,Kula,2.6,4.0,Ne,Kafe bar
+Coffee Moment 49,Trnovac,2.9,4.3,Da,Kafe bar
+Kafana Spot 50,Borić,2.4,4.2,Ne,Kvartovski kafe
+Pub Time 51,Stari Grad,3.2,4.5,Da,Pub
+Corner In 52,Sjenjak,2.7,4.1,Ne,Kafe bar
+Central Plus 53,Centar,3.5,4.7,Da,Gradski kafe
+City Stil 54,Stupine,3.3,4.4,Da,Kafe bar
+Boutique Oaza 55,Bulevar,3.7,4.8,Da,Kafeterija
+Retro Gourmet 56,Slatina,2.8,4.3,Da,Kafe bar
+Avenija Trend 57,Stupine,3.2,4.5,Da,Kafe bar
+Piazza Focus 58,Centar,3.8,4.8,Da,Kafeterija
+Siti Express 59,Brčanska Malta,2.9,4.2,Ne,Kvartovski kafe
+Caffe Club 60,Solina,2.6,4.0,Ne,Kafe bar
+Bar Break 61,Ilinčica,3.0,4.4,Da,Lounge Bar
+Lounge Moment 62,Kula,2.5,4.1,Ne,Kafe bar
+Coffee Spot 63,Trnovac,2.8,4.2,Da,Kafe bar
+Kafana Time 64,Borić,2.3,3.9,Ne,Kvartovski kafe
+Pub In 65,Stari Grad,3.3,4.6,Da,Pub
+Corner Plus 66,Sjenjak,2.8,4.3,Ne,Kafe bar
+Central Stil 67,Centar,3.6,4.7,Da,Gradski kafe
+City Oaza 68,Stupine,3.4,4.5,Da,Kafe bar
+Boutique Gourmet 69,Bulevar,3.9,4.9,Da,Kafeterija
+Retro Trend 70,Slatina,2.9,4.2,Da,Kafe bar
+Avenija Focus 71,Stupine,3.1,4.4,Da,Kafe bar
+Piazza Express 72,Centar,3.7,4.8,Da,Kafeterija
+Siti Club 73,Brčanska Malta,2.7,4.1,Ne,Kvartovski kafe
+Caffe Break 74,Solina,2.4,3.9,Ne,Kafe bar
+Bar Moment 75,Ilinčica,3.2,4.5,Da,Lounge Bar
+Lounge Spot 76,Kula,2.6,4.2,Ne,Kafe bar
+Coffee Time 77,Trnovac,3.0,4.4,Da,Kafe bar
+Kafana In 78,Borić,2.5,4.0,Ne,Kvartovski kafe
+Pub Plus 79,Stari Grad,3.4,4.6,Da,Pub
+Corner Stil 80,Sjenjak,2.9,4.3,Ne,Kafe bar
+Central Oaza 81,Centar,3.5,4.7,Da,Gradski kafe
+City Gourmet 82,Stupine,3.3,4.5,Da,Kafe bar
+Boutique Trend 83,Bulevar,3.8,4.8,Da,Kafeterija
+Retro Focus 84,Slatina,2.8,4.2,Da,Kafe bar
+Avenija Express 85,Stupine,3.2,4.4,Da,Kafe bar
+Piazza Club 86,Centar,3.6,4.7,Da,Kafeterija
+Siti Break 87,Brčanska Malta,2.8,4.1,Ne,Kvartovski kafe
+Caffe Moment 88,Solina,2.5,4.0,Ne,Kafe bar
+Bar Spot 89,Ilinčica,3.1,4.5,Da,Lounge Bar
+Lounge Time 90,Kula,2.7,4.2,Ne,Kafe bar
+Coffee In 91,Trnovac,2.9,4.3,Da,Kafe bar
+Kafana Plus 92,Borić,2.4,4.1,Ne,Kvartovski kafe
+Pub Stil 93,Stari Grad,3.3,4.6,Da,Pub
+Corner Oaza 94,Sjenjak,2.6,4.2,Ne,Kafe bar
+Central Gourmet 95,Centar,3.7,4.8,Da,Gradski kafe
+City Trend 96,Stupine,3.4,4.5,Da,Kafe bar
+Boutique Focus 97,Bulevar,4.0,4.9,Da,Kafeterija
+Retro Express 98,Slatina,2.9,4.3,Da,Kafe bar
+Avenija Club 99,Stupine,3.2,4.4,Da,Kafe bar
+Piazza Break 100,Centar,3.8,4.8,Da,Kafeterija
+Siti Moment 101,Brčanska Malta,2.7,4.2,Ne,Kvartovski kafe
+Caffe Spot 102,Solina,2.4,3.9,Ne,Kafe bar
+Bar Time 103,Ilinčica,3.0,4.4,Da,Lounge Bar
+Lounge In 104,Kula,2.6,4.1,Ne,Kafe bar
+Coffee Plus 105,Trnovac,3.1,4.5,Da,Kafe bar
+Kafana Stil 106,Borić,2.3,4.0,Ne,Kvartovski kafe
+Pub Oaza 107,Stari Grad,3.5,4.7,Da,Pub
+Corner Gourmet 108,Sjenjak,2.8,4.2,Ne,Kvartovski kafe
+Central Trend 109,Centar,3.6,4.7,Da,Gradski kafe
+City Focus 110,Stupine,3.3,4.5,Da,Kafe bar
+Boutique Express 111,Bulevar,3.7,4.8,Da,Kafeterija
+Retro Club 112,Slatina,2.9,4.3,Da,Kafe bar
+Avenija Break 113,Stupine,3.1,4.4,Da,Kafe bar
+Piazza Moment 114,Centar,3.9,4.9,Da,Kafeterija
+Siti Spot 115,Brčanska Malta,2.8,4.2,Ne,Kvartovski kafe
+Caffe Time 116,Solina,2.5,4.0,Ne,Kafe bar
+Bar In 117,Ilinčica,3.2,4.5,Da,Lounge Bar
+Lounge Plus 118,Kula,2.7,4.1,Ne,Kafe bar
+Coffee Stil 119,Trnovac,2.9,4.3,Da,Kafe bar
+Kafana Oaza 120,Borić,2.4,4.1,Ne,Kvartovski kafe
+Pub Gourmet 121,Stari Grad,3.4,4.6,Da,Pub
+Corner Trend 122,Sjenjak,2.9,4.3,Ne,Kvartovski kafe
+Central Focus 123,Centar,3.5,4.7,Da,Gradski kafe
+City Express 124,Stupine,3.3,4.5,Da,Kafe bar
+Boutique Club 125,Bulevar,3.8,4.8,Da,Kafeterija
+Retro Break 126,Slatina,2.8,4.2,Da,Kafe bar
+Avenija Moment 127,Stupine,3.2,4.4,Da,Kafe bar
+Piazza Spot 128,Centar,3.7,4.8,Da,Kafeterija
+Siti Time 129,Brčanska Malta,2.7,4.1,Ne,Kvartovski kafe
+Caffe In 130,Solina,2.4,3.9,Ne,Kafe bar
+Bar Plus 131,Ilinčica,3.1,4.5,Da,Lounge Bar
+Lounge Stil 132,Kula,2.6,4.1,Ne,Kafe bar
+Coffee Oaza 133,Trnovac,3.0,4.4,Da,Kafe bar
+Kafana Gourmet 134,Borić,2.5,4.2,Ne,Kvartovski kafe
+Pub Trend 135,Stari Grad,3.3,4.6,Da,Pub
+Corner Focus 136,Sjenjak,2.7,4.2,Ne,Kvartovski kafe
+Central Express 137,Centar,3.6,4.7,Da,Gradski kafe
+City Club 138,Stupine,3.4,4.5,Da,Kafe bar
+Boutique Break 139,Bulevar,3.9,4.9,Da,Kafeterija
+Retro Moment 140,Slatina,2.9,4.3,Da,Kafe bar
+Avenija Spot 141,Stupine,3.1,4.4,Da,Kafe bar
+Piazza Time 142,Centar,3.8,4.8,Da,Kafeterija
+Siti In 143,Brčanska Malta,2.8,4.2,Ne,Kvartovski kafe
+Caffe Plus 144,Solina,2.5,4.0,Ne,Kafe bar
+Bar Stil 145,Ilinčica,3.2,4.5,Da,Lounge Bar
+Lounge Oaza 146,Kula,2.7,4.2,Ne,Kafe bar
+Coffee Gourmet 147,Trnovac,2.9,4.3,Da,Kafe bar
+Kafana Trend 148,Borić,2.3,4.0,Ne,Kvartovski kafe
+Pub Focus 149,Stari Grad,3.5,4.7,Da,Pub
+Corner Express 150,Sjenjak,2.8,4.3,Ne,Kvartovski kafe
+Central Club 151,Centar,3.5,4.7,Da,Gradski kafe
+City Break 152,Stupine,3.3,4.5,Da,Kafe bar
+Boutique Moment 153,Bulevar,3.7,4.8,Da,Kafeterija
+Retro Spot 154,Slatina,2.8,4.2,Da,Kafe bar
+Avenija Time 155,Stupine,3.2,4.4,Da,Kafe bar
+Piazza In 156,Centar,3.6,4.7,Da,Kafeterija
+Siti Plus 157,Brčanska Malta,2.7,4.1,Ne,Kvartovski kafe
+Caffe Stil 158,Solina,2.4,3.9,Ne,Kafe bar
+Bar Oaza 159,Ilinčica,3.1,4.5,Da,Lounge Bar
+Lounge Gourmet 160,Kula,2.6,4.1,Ne,Kafe bar
+Coffee Trend 161,Trnovac,3.0,4.4,Da,Kafe bar
+Kafana Focus 162,Borić,2.4,4.1,Ne,Kvartovski kafe
+Pub Express 163,Stari Grad,3.4,4.6,Da,Pub
+Corner Club 164,Sjenjak,2.9,4.3,Ne,Kvartovski kafe
+Central Break 165,Centar,3.6,4.7,Da,Gradski kafe
+City Moment 166,Stupine,3.4,4.5,Da,Kafe bar
+Boutique Spot 167,Bulevar,3.8,4.8,Da,Kafeterija
+Retro Time 168,Slatina,2.9,4.3,Da,Kafe bar
+Avenija In 169,Stupine,3.1,4.4,Da,Kafe bar
+Piazza Plus 170,Centar,3.9,4.9,Da,Kafeterija
+Siti Stil 171,Brčanska Malta,2.8,4.2,Ne,Kvartovski kafe
+Caffe Oaza 172,Solina,2.5,4.0,Ne,Kafe bar
+Bar Gourmet 173,Ilinčica,3.2,4.5,Da,Lounge Bar
+Lounge Trend 174,Kula,2.7,4.2,Ne,Kafe bar
+Coffee Focus 175,Trnovac,2.9,4.3,Da,Kafe bar
+Kafana Express 176,Borić,2.3,4.0,Ne,Kvartovski kafe
+Pub Club 177,Stari Grad,3.5,4.7,Da,Pub
+Corner Break 178,Sjenjak,2.8,4.3,Ne,Kvartovski kafe
+Central Moment 179,Centar,3.5,4.7,Da,Gradski kafe
+City Spot 180,Stupine,3.3,4.5,Da,Kafe bar
+Boutique In 181,Bulevar,3.7,4.8,Da,Kafeterija
+Retro Plus 182,Slatina,2.8,4.2,Da,Kafe bar
+Avenija Stil 183,Stupine,3.2,4.4,Da,Kafe bar
+Piazza Oaza 184,Centar,3.6,4.7,Da,Kafeterija
+Siti Gourmet 185,Brčanska Malta,2.7,4.1,Ne,Kvartovski kafe
+Caffe Trend 186,Solina,2.4,3.9,Ne,Kafe bar
+Bar Focus 187,Ilinčica,3.1,4.5,Da,Lounge Bar
+Lounge Express 188,Kula,2.6,4.1,Ne,Kafe bar
+Coffee Club 189,Trnovac,3.0,4.4,Da,Kafe bar
+Kafana Break 190,Borić,2.4,4.1,Ne,Kvartovski kafe
+Pub Moment 191,Stari Grad,3.4,4.6,Da,Pub
+Corner Spot 192,Sjenjak,2.9,4.3,Ne,Kvartovski kafe
+Central In 193,Centar,3.6,4.7,Da,Gradski kafe
+City Plus 194,Stupine,3.4,4.5,Da,Kafe bar
+Boutique Stil 195,Bulevar,3.8,4.8,Da,Kafeterija
+Retro Oaza 196,Slatina,2.9,4.3,Da,Kafe bar
+Avenija Gourmet 197,Stupine,3.1,4.4,Da,Kafe bar
+Piazza Trend 198,Centar,3.9,4.9,Da,Kafeterija
+Siti Focus 199,Brčanska Malta,2.8,4.2,Ne,Kvartovski kafe
+Caffe Express 200,Solina,2.5,4.0,Ne,Kafe bar
